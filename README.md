@@ -9,3 +9,7 @@ Team Member		  : </br>
 (CC) C048DSX4872 – Rian Ajie Pangestu – Politeknik Enjinering Indorama - (Active) </br>
 (MD) A361DSX2063 – Yudhistira Paksi Rully Adjie – Universitas Terbuka - (Active) </br>
 
+UI/UX https://www.figma.com/file/SucUJIZ820o7m8CuqPE53Q/Rotten-Fruits-UI-Mobile-Design?type=design&node-id=0%3A1&t=L4VJtOiCsmGg5KRN-1 
+MD APK + CODE
+https://drive.google.com/file/d/1-WE9K8YhyA-TfpSFFh7-ZJwTa-kHp_PK/view?usp=sharing
+https://drive.google.com/drive/folders/1ZJD_0s5q9JHobTHVrb_Ex5Kw67-cUPEr?usp=sharing 
